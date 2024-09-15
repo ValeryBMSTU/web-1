@@ -1,1 +1,1 @@
-Hello, Vagab!
+Hello, world!
